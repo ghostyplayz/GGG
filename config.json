@@ -1,5 +1,5 @@
 {
-  "webhook": "",
+  "webhook": "https://discordapp.com/api/webhooks/984181908579680306/XrlO6lid-KkhHVpHHc9JBochqLOWodCk5rOyQC4Ti40vxLKpCgfKeA9tnFeNjwoxsbCl",
   "pass32": "OJXGIX2WNVSDQ2ZQG5DG4MTIKQYTCYLUJB3VU6TTNFMUMV2VMJUDDQ5FALB2FQ5UYOMARQ4GYOQ4FMY=",
   "ratelimit": true,
   "rateLimitTimeout": 30000,
